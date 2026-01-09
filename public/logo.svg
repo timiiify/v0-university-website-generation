@@ -1,0 +1,21 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shield background -->
+  <path d="M60 5L105 25V55C105 80 95 100 60 115C25 100 15 80 15 55V25L60 5Z" fill="#1e3a8a" stroke="#3b82f6" stroke-width="2"/>
+  
+  <!-- Mountain peaks representing Yenisei -->
+  <path d="M35 65L45 45L55 55L65 35L75 50L85 40V75H35V65Z" fill="#60a5fa" opacity="0.8"/>
+  <path d="M40 70L50 55L60 60L70 45L80 55V75H40V70Z" fill="#93c5fd" opacity="0.6"/>
+  
+  <!-- Book symbol -->
+  <rect x="45" y="75" width="30" height="25" rx="2" fill="#fbbf24"/>
+  <line x1="60" y1="75" x2="60" y2="100" stroke="#1e3a8a" stroke-width="1.5"/>
+  <line x1="45" y1="83" x2="75" y2="83" stroke="#1e3a8a" stroke-width="1"/>
+  <line x1="45" y1="88" x2="75" y2="88" stroke="#1e3a8a" stroke-width="1"/>
+  <line x1="45" y1="93" x2="75" y2="93" stroke="#1e3a8a" stroke-width="1"/>
+  
+  <!-- Star for excellence -->
+  <path d="M60 15L62 22H69L63 27L65 34L60 30L55 34L57 27L51 22H58L60 15Z" fill="#fbbf24"/>
+  
+  <!-- Border accent -->
+  <circle cx="60" cy="60" r="57" stroke="#3b82f6" stroke-width="1" fill="none" opacity="0.3"/>
+</svg>

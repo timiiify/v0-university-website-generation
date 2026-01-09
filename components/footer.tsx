@@ -26,7 +26,6 @@ export function Footer({ currentLanguage }: FooterProps) {
                     : "Енисей Бишкек Университети"}
               </div>
             </div>
-            {/* </CHANGE> */}
             <p className="text-sm text-muted-foreground mb-4">{t.heroSubtitle}</p>
             <div className="flex gap-3">
               <Link
@@ -80,7 +79,7 @@ export function Footer({ currentLanguage }: FooterProps) {
               </div>
               <div className="flex items-center gap-3 text-sm text-muted-foreground">
                 <Phone className="size-4 shrink-0" />
-                <span>+996 (312) 123-456</span>
+                <span>+996 (550) 847-7625</span>
               </div>
               <div className="flex items-center gap-3 text-sm text-muted-foreground">
                 <Mail className="size-4 shrink-0" />

@@ -66,7 +66,7 @@ export const translations = {
 
     // Footer
     contact: "Байланыш",
-    address: "Бишкек ш., Кыргыз Республикасы",
+    address: "№ 123, Чүй проспекти, Бишкек шаары, Кыргыз Республикасы",
     phone: "Телефон",
     email: "Email",
     quickLinks: "Шилтемелер",
@@ -135,7 +135,7 @@ export const translations = {
 
     // Footer
     contact: "联系我们",
-    address: "吉尔吉斯斯坦共和国比什凯克市",
+    address: "吉尔吉斯共和国，比什凯克市，楚河大街123号",
     phone: "电话",
     email: "电子邮箱",
     quickLinks: "快速链接",
@@ -207,7 +207,7 @@ export const translations = {
 
     // Footer
     contact: "Contact",
-    address: "Bishkek, Kyrgyz Republic",
+    address: "No. 123, Chüy Avenue, Bishkek City, Kyrgyz Republic",
     phone: "Phone",
     email: "Email",
     quickLinks: "Quick Links",
